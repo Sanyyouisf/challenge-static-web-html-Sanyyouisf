@@ -1,0 +1,104 @@
+/*styling the header elements*/
+
+
+.header {
+	background-color: #0DFF91;
+	padding-top: 40px;
+	margin: -10px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	margin-bottom: -5px;
+	margin-top: -5px;
+
+
+} 
+
+h3 {
+	text-align: center;
+	font-size: 1.3em;
+	color: white;
+	margin-top: 2px;
+}
+
+/* style the nav elements*/
+
+.nav li {
+	list-style-type: none;
+	text-align: center;
+	display: inline-block;
+	margin: 0 15px;
+	padding-bottom: 20px;
+}
+
+.nav  a:hover {
+	color: orange;
+}
+
+.nav li a {
+	text-decoration: none;
+	color: #FF271B;
+	font-size: 1.3em;
+}
+/* style the page elements*/
+.portfolioPicture {
+	display: inline-block;
+	border-radius: 40%;
+	float: right;
+	width: 250px;
+	height: 250px;
+	margin: 50px;
+	opacity: .9;
+}
+
+.firstP {
+	float: left;
+	width: 60%;
+	line-height: 1.5em;
+}
+
+.secondP {
+	clear: both;
+	line-height: 1.5em;
+}
+
+
+article p {
+font-size: 1.1em;
+margin: 50px;
+display: inline-block;
+} 
+
+ p a {
+ 	color: blue;
+ 	text-decoration: none;
+ }
+
+ body {
+ 	background-image: url("../images/background.jpg");
+ 	background-size: cover;
+ 	color: white;
+ }
+
+/* style the footer elements*/
+footer {
+	font-size: .8em;
+	color: black;
+	background-color: #C7C3C5;
+	padding:25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
